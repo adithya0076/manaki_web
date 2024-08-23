@@ -285,18 +285,22 @@
                 children: (0, t.jsxs)("div", {
                   className: "hero-container",
                   children: [
+                    (0, t.jsx)("h1", {
+                      className: "hero-heading",
+                      children: "BLACK",  // New word added
+                    }),
                     (0, t.jsxs)("div", {
                       className: "hero-letters",
                       children: [
                         (0, t.jsx)("h1", {
                           "data-w-id": "00c96275-55a4-2839-457b-174c20d342ba",
                           className: "hero-heading",
-                          children: "ME",
+                          children: "MA",
                         }),
                         (0, t.jsx)("h1", {
                           "data-w-id": "05403c22-9edc-3396-a166-65e341238f5f",
                           className: "hero-heading _2",
-                          children: "NA",
+                          children: "NE",
                         }),
                         (0, t.jsx)("h1", {
                           "data-w-id": "9ba4421c-680f-a582-cabf-bc277cad9bba",
@@ -306,7 +310,7 @@
                       ],
                     }),
                     (0, t.jsx)("img", {
-                      src: "images/hero-image11.svg",
+                      src: "images/cat1.svg",
                       loading: "lazy",
                       width: 132,
                       "data-w-id": "1ff3cada-648a-84a7-34ec-4b5aecf06982",
@@ -314,34 +318,26 @@
                       className: "image cr1",
                     }),
                     (0, t.jsx)("img", {
-                      src: "images/hero-image01.svg",
+                      src: "images/cat2.svg",
                       loading: "lazy",
                       width: 132,
                       alt: "",
                       className: "image cl1",
                     }),
                     (0, t.jsx)("img", {
-                      src: "images/hero-image10.svg",
+                      src: "images/cat3.svg",
                       loading: "eager",
                       width: 132,
                       alt: "",
                       className: "image tr",
                     }),
                     (0, t.jsx)("img", {
-                      src: "images/hero-image04.svg",
+                      src: "images/cat4.svg",
                       loading: "eager",
                       width: 132,
                       "data-w-id": "b4e87d62-9278-efbb-8802-2dbfcaf0b423",
                       alt: "",
                       className: "image tl",
-                    }),
-                    (0, t.jsx)("img", {
-                      src: "images/hero-image07.svg",
-                      loading: "lazy",
-                      width: 132,
-                      "data-w-id": "230e1d47-d31c-b410-2241-9157c76d177d",
-                      alt: "",
-                      className: "image cr2",
                     }),
                     (0, t.jsx)("img", {
                       src: "images/hero-image05.svg",
