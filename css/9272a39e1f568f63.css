@@ -4882,31 +4882,46 @@ video {
   -webkit-text-stroke: 8px #1f2024;
 }
 
-#webflow-custom .hero-heading2 {
+#webflow-custom .hero-heading4 {
   position: relative;
   z-index: 1;
   margin-top: 0;
   margin-bottom: 0;
   margin-left: 5;
   margin-right: 5;
-  font-size: 16vw;
-  text-shadow: -17px 17px 0 #1f2024;
+  font-size: 18vw;
+  text-shadow: -17px 17px 0 #fcfdff;
   cursor: crosshair;
   -webkit-text-stroke: 8px #1f2024;
 }
 #webflow-custom .hero-heading:hover {
   color: #eedf39;
 }
+#webflow-custom .hero-heading2:hover {
+  color: #eedf39;
+}
 #webflow-custom .hero-heading._2 {
+  z-index: 2;
+}
+#webflow-custom .hero-heading2._2 {
   z-index: 2;
 }
 #webflow-custom .hero-heading._2:hover {
   color: #5879ff;
 }
+#webflow-custom .hero-heading2._2:hover {
+  color: #5879ff;
+}
 #webflow-custom .hero-heading._3 {
   z-index: 3;
 }
+#webflow-custom .hero-heading3._3 {
+  z-index: 3;
+}
 #webflow-custom .hero-heading._3:hover {
+  color: #ff2cb2;
+}
+#webflow-custom .hero-heading3._3:hover {
   color: #ff2cb2;
 }
 #webflow-custom .primary-button {
@@ -5528,6 +5543,9 @@ video {
   #webflow-custom .hero-heading {
     text-shadow: -11px 11px 0 #1f2024;
   }
+  #webflow-custom .hero-heading2 {
+    text-shadow: -11px 11px 0 #1f2024;
+  }
   #webflow-custom .mint-section {
     overflow: hidden;
   }
@@ -5588,6 +5606,12 @@ video {
     height: auto;
   }
   #webflow-custom .hero-heading {
+    margin-top: 0;
+    font-size: 37vw;
+    line-height: 0.75em;
+    text-shadow: -8px 8px 0 #1f2024;
+  }
+  #webflow-custom .hero-heading2 {
     margin-top: 0;
     font-size: 37vw;
     line-height: 0.75em;
