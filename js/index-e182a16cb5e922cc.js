@@ -285,7 +285,7 @@
                 children: (0, t.jsxs)("div", {
                   className: "hero-container",
                   children: [
-                    (0, t.jsx)("h1", {
+                    (0, t.jsx)("h4", {
                       className: "hero-heading",
                       children: "BLACK",  // New word added
                     }),
