@@ -349,15 +349,7 @@
                       className: "image tl",
                     }),
                     (0, t.jsx)("img", {
-                      src: "images/hero-image05.svg",
-                      loading: "lazy",
-                      width: 132,
-                      "data-w-id": "c7135e00-9c31-b151-8f70-c32309ed53fa",
-                      alt: "",
-                      className: "image cl2",
-                    }),
-                    (0, t.jsx)("img", {
-                      src: "images/hero-image03.svg",
+                      src: "images/cat2.svg",
                       loading: "lazy",
                       width: 132,
                       "data-w-id": "ab398e85-1351-ecb4-4a83-ffa66bc05609",
@@ -365,7 +357,7 @@
                       className: "image bl1",
                     }),
                     (0, t.jsx)("img", {
-                      src: "images/hero-image08.svg",
+                      src: "images/cat3.svg",
                       loading: "lazy",
                       width: 132,
                       "data-w-id": "5ad4c184-a720-167b-215f-5a85e51409a7",
