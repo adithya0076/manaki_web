@@ -285,9 +285,18 @@
                 children: (0, t.jsxs)("div", {
                   className: "hero-container",
                   children: [
-                    (0, t.jsx)("h4", {
+                    (0, t.jsx)("h6", {
                       className: "hero-heading",
                       children: "BLACK",  // New word added
+                    }),
+                    (0, t.jsx)("br", {
+              
+                    }),
+                    (0, t.jsx)("br", {
+              
+                    }),
+                    (0, t.jsx)("br", {
+              
                     }),
                     (0, t.jsxs)("div", {
                       className: "hero-letters",
