@@ -4881,6 +4881,19 @@ video {
   cursor: crosshair;
   -webkit-text-stroke: 8px #1f2024;
 }
+
+#webflow-custom .hero-heading2 {
+  position: relative;
+  z-index: 1;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 5;
+  margin-right: 5;
+  font-size: 16vw;
+  text-shadow: -17px 17px 0 #1f2024;
+  cursor: crosshair;
+  -webkit-text-stroke: 8px #1f2024;
+}
 #webflow-custom .hero-heading:hover {
   color: #eedf39;
 }
